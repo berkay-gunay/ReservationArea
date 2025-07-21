@@ -1,2 +1,5 @@
 # ReservationArea
-AddReservation, CancelReservation, ShowReservationDetail
+
+
+⚠️ Bu proje özel olarak geliştirilmiştir. Tüm hakları saklıdır. İzinsiz kullanılamaz.
+
